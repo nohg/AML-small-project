@@ -1,0 +1,15 @@
+p_deltaR_tag
+p_eCluster
+p_rawECluster
+p_etaClusterLr1
+p_etaCalo
+p_chi2
+p_deltaPhiRescaled0
+p_deltaPhiRescaled1
+p_e1152
+p_topoetconecoreConeSCEnergyCorrection
+p_weta1
+p_widths1
+p_emaxs1
+p_E3x5_Lr1
+p_E5x7_Lr1
