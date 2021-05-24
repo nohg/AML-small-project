@@ -1,0 +1,6 @@
+p_R12
+p_fTG3
+p_Eratio
+p_e255
+p_e2ts1
+p_wtots1
